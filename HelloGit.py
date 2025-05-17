@@ -5,5 +5,4 @@ def saludar():
   print("Aniel Varela")
   print("Se ha ejecutado la funcion de saludar")
   
-print("Se ha ejecutado la funcion"
 
